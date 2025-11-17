@@ -1,0 +1,33 @@
+[
+  {
+    "itemId": "item-001",
+    "name": "Basic Plan",
+    "price": 29.99,
+    "description": "Basic telecom plan with essential features"
+  },
+  {
+    "itemId": "item-002",
+    "name": "Premium Plan",
+    "price": 49.99,
+    "description": "Premium telecom plan with advanced features"
+  },
+  {
+    "itemId": "item-003",
+    "name": "Enterprise Plan",
+    "price": 99.99,
+    "description": "Enterprise telecom plan with all features"
+  },
+  {
+    "itemId": "item-004",
+    "name": "Data Add-on",
+    "price": 9.99,
+    "description": "Additional data package for your plan"
+  },
+  {
+    "itemId": "item-005",
+    "name": "Voice Add-on",
+    "price": 4.99,
+    "description": "Additional voice minutes for your plan"
+  }
+]
+
